@@ -1,0 +1,2 @@
+../Core/Src/modulo_luces.c:10:6:luces_init	8	static
+../Core/Src/modulo_luces.c:17:6:luces_update	16	static
